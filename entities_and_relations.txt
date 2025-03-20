@@ -1,0 +1,13 @@
+Entitie definition: individual elements from a dataset
+
+Dataset entities: company, jobs vacancies
+
+Entities relations:
+
+    Company --> has a location
+            --> has jobs vacancies
+            --> is hiring or not
+
+    Job vacancie --> have a specific area
+                 --> salary
+                 --> minimun years experience
