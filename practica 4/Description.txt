@@ -1,0 +1,6 @@
+ANOVA result
+
+the p value is big way minor than 0.5, that means that the average salaries per area are heavily variant. 
+In other words, the average salary are different dipending the area
+
+Kruskall-Wallis reinforce the previous argument
