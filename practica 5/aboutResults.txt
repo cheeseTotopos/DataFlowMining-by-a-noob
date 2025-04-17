@@ -1,0 +1,13 @@
+What does r2 = 0.0683 means?
+
+First, review the program. Were trying to predict the average salary. As you probably already guess,
+to predict results we need data. 
+
+The data we used to predict, are the variables Type of job and average experience.
+
+The small result means that using both of the previous variables, we can predict the average salary with 
+a precission of 6.8%. Thats not accurate at all.
+
+The tiny result could mean we need more variables to predict the average data, but we do not dispose
+more information. Also, could mean that our way to clasify the jobs areas by a string (the type of job dataset column)
+its not accurate at all 
