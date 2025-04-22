@@ -1,0 +1,7 @@
+In our plot, the WCSS decreases almost linearly, without a clear elbow point. 
+This indicates that the dataset may not have distinct or well-separated clusters, 
+or that the features used do not provide strong clustering signals. 
+The data may be too noisy, too overlapping, or lacking in structure for K-Means to find meaningful groupings.
+
+Despite this, experimenting with values such as k = 3 or k = 4 could still offer some insight, 
+though the results should be interpreted with caution
