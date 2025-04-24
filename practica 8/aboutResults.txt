@@ -1,0 +1,17 @@
+The x axis represents the years experience, an the y axis represents the average salary, so in the graph
+we have the average salary depending of the experience.
+
+The red line has a positive slope, that suggest a relation between the experience and the salary.
+The blue dots represents the jobs and its average salary.
+
+So, we are watching high vertical variability between the blue slots, that means that the average salary varies
+on jobs with low experience needed. In other words, according to our dataset, in jobs with low experience needed, the salary could be
+or pretty good, or not good enough.
+Also we can say that the salary variation between jobs is lower when the experience needed increases.
+
+Other thing that que should notice, is that regardless low or high experience, the average salary for jobs (blue dots) is 
+pretty high, so we can conclude that, yes, the experience could predict in some extent, the job salary, but no with whole accuracy.
+
+Thinking out of the result, this is obvious, because we cannot conclude or expect that an job average salary only depends of the
+experience needed, of course the experience could be a fact that determines the experience, but not the only fact, like the job area,
+the location, the company, the economy situation of the location, etc.
